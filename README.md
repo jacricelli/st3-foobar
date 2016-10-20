@@ -6,6 +6,21 @@ Plugin para Sublime Text 3 que ofrece las siguientes funciones:
 - Abrir [gitg](https://wiki.gnome.org/Apps/Gitg/)
 - Restablecer el tamaño de la fuente a uno definido por el usuario
 
+## Instalación
+
+### Manual
+
+- Clonar el repositorio a **Packages/st3-foobar** o descargar el ZIP y descomprimir los archivos en dicha ubicación.
+
+Consultar https://www.sublimetext.com/docs/3/packages.html para más información.
+
+### Package Control
+
+- Agregar https://github.com/jacricelli/st3-foobar (sin .git) utilizando la función **Add Repository** de Package Control
+- Buscar el instalar el paquete **st3-foobar**
+
+Consultar https://packagecontrol.io/docs/usage para más información.
+
 ## Licencia
 
 MIT License
