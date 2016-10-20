@@ -1,0 +1,10 @@
+[
+    {
+        "id": "foobar-open-gitg",
+        "caption": "Open Gitg here…",
+        "command": "open_gitg",
+        "args": {
+            "paths": []
+        }
+    }
+]

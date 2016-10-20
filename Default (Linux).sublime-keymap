@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+0"],
+        "command": "reset_font_size_to_user_defaults"
+    }
+]

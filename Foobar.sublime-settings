@@ -1,0 +1,7 @@
+{
+    // Tamaño predeterminado de la fuente
+    "default_font_size": 11,
+
+    // Ruta de acceso al binario de gitg
+    "path_to_gitg": ""
+}
