@@ -1,6 +1,4 @@
-# Foobar
-
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.txt)
+# Foobar [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 Plugin para Sublime Text 3 que ofrece las siguientes funciones:
 - Abrir [gitg](https://wiki.gnome.org/Apps/Gitg/)
@@ -16,8 +14,8 @@ Consultar https://www.sublimetext.com/docs/3/packages.html para más informació
 
 ### Package Control
 
-- Agregar https://github.com/jacricelli/st3-foobar (sin .git) utilizando la función **Add Repository** de Package Control
-- Buscar el instalar el paquete **st3-foobar**
+- Agregar https://github.com/jacricelli/st3-foobar (sin .git) utilizando la función **Add Repository** de **Package Control**
+- Buscar e instalar el paquete **st3-foobar**
 
 Consultar https://packagecontrol.io/docs/usage para más información.
 
