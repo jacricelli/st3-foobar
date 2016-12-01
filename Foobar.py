@@ -57,4 +57,4 @@ class OpenGitgCommand(sublime_plugin.WindowCommand):
         subprocess.Popen([gitg, path], cwd=path)
 
     def is_enabled(self, args = []):
-        return True
+        return os.name != 'nt'
